@@ -114,7 +114,3 @@ http://localhost:8080/swagger-ui/index.html
 - Daily calorie totals are calculated from foods assigned to meals for the current day.
 - Foods are linked to users, and meals belong to a specific user.
 - There is no full authentication system yet; login returns the user ID, which the frontend stores locally.
-
-## Repository Status
-
-This repository currently contains both backend and frontend application code and can be developed locally as a standard two-part full-stack project.
