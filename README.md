@@ -5,7 +5,7 @@ NutriTrack is a full-stack meal tracking application with a Spring Boot backend 
 ## Project Structure
 
 - `backend/App` - Spring Boot 3 API built with Gradle and Java 17
-- `frontend` - React application created with Create React App
+- `frontend` - React application
 
 ## Features
 
